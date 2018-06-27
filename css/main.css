@@ -1,0 +1,36 @@
+
+
+
+
+
+
+body {
+  text-align: center;
+}
+
+div {
+  background-color: tomato;
+  height: 150px;
+  width: 24%;
+  /* margin-bottom: 10px %; */
+  margin: 10px 4%;
+  display: inline-block;
+  /* margin: 0;
+  padding: 0;
+  border: none; */
+  vertical-align: top;
+
+}
+
+/*display: block  */
+/* It alwyas starts on a new line */
+/* It takes up the FUll width of the space availabel */
+/* It does not let other elements sit on the same line with it */
+
+/* display: inline */
+/* They only take up as much space as their content required */
+/* They cannot have their height and width changed */
+
+/* display: inline-block; */
+/* Behave like inline elements allows other elements on the same line */
+/* But it can be styled with height and width */
